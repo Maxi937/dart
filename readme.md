@@ -1,10 +1,10 @@
 # Description
 Monorepo of two repoisotries for College Assignment.
 
-1. XPRESSC
+### XPRESSC
 This is a compiler / parser for an xml sytax that is used to create variable PDF's.
 
-2. DART-REACT-CLIENT
+### DART-REACT-CLIENT
 This is a javascript client for a webapplication that relies on React.
 
 ## Landing Page
