@@ -1,0 +1,6 @@
+[submodule "dart-react-client"]
+	path = dart-react-client
+	url = https://github.com/Maxi937/dart-react-client
+[submodule "XpressC"]
+	path = XpressC
+	url = https://github.com/Maxi937/XpressC
